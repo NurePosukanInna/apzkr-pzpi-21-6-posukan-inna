@@ -1,0 +1,158 @@
+{
+    "activeSubscription": {
+      "your_subscription": "Ваша підписка:",
+      "status": "Статус",
+      "start_date": "Дата початку",
+      "end_date": "Дата завершення",
+      "name": "Назва",
+      "price": "Ціна"
+    },
+    "analytics": {
+      "store_analytics": "Аналітика магазину"
+    },
+
+    "defective": {
+      "defective_products_for_shop": "зіпсовані продукти для магазину",
+      "product_name": "Назва продукту",
+      "volume": "Обсяг",
+      "measure_of_units": "Одиниці виміру",
+      "reason": "Причина",
+      "date_detected": "Дата виявлення",
+      "no_defective_products": "Немає зіпрованих продуктів"
+    },
+    "employee": {
+      "label_employee": "Співробітники",
+      "add_user": "Додати робітника",
+      "email": "Електронна пошта",
+      "position": "Посада",
+      "first_name": "Ім'я",
+      "last_name": "Прізвище",
+      "store": "Магазин",
+      "action": "Дія",
+      "delete": "Видалити",
+      "update": "Оновити",
+      "select_store": "Виберіть магазин",
+      "cashier": "Касир",
+      "store_manager": "Керуючий магазином",
+      "update_employee": "Оновити інформацію про робітника",
+      "password": "Пароль",
+      "select_role": "Оберіть роль",
+      "add_employee": "Додати робітника",
+      "employee_successfully_added": "Співробітник успішно доданий!",
+      "employee_successfully_deleted": "Співробітник успішно видалений!",
+      "employee_successfully_updated": "Співробітник успішно оновлений!"
+    },
+    "order": {
+      "label_supplier_request": "Заявка постачальнику",
+      "loading": "Завантаження...",
+      "fetch_data_error": "Не вдалося отримати дані. Будь ласка, спробуйте пізніше.",
+      "order_id": "Ідентифікатор замовлення",
+      "store_name": "Назва магазину",
+      "product_name": "Назва продукту",
+      "quantity": "Кількість",
+      "total_amount": "Загальна сума",
+      "request_date": "Дата замовлення",
+      "request_status": "Статус замовлення",
+      "delivery_date": "Дата доставки",
+      "not_delivered": "Не доставлено",
+      "actions": "Дії",
+      "update": "Оновити",
+      "delete": "Видалити",
+      "request_deleted": "Заявка успішно видалена!",
+      "request_updated": "Заявка успішно оновлена!"
+    },
+    "sales": {
+      "sale": "Продажі",
+      "sale_id": "ID продажу",
+      "sale_date": "Дата продажу",
+      "employee": "Співробітник",
+      "product_name": "Назва товару",
+      "quantity": "Кількість",
+      "price": "Ціна",
+      "error_fetching_sales": "Помилка отримання даних про продажі:",
+      "no_sales_available": "Продажів немає"
+    },
+    "shop": {
+      "stores": "Магазини",
+      "error_fetching_stores": "Помилка отримання магазинів:",
+      "error_adding_store": "Помилка додавання магазину:",
+      "add_store": "Додати магазин",
+      "id": "Ідентифікатор магазину",
+      "name": "Назва",
+      "address": "Адреса",
+      "temperature": "Температура",
+      "humidity": "Вологість",
+      "phone_number": "Номер телефону магазину",
+      "add_shop": "Додати магазин",
+      "initial_temperature": "Початкове значення температури",
+      "initial_humidity": "Початкове значення вологості"
+    },
+    "subscription": {
+      "label_subscription": "Підписка",
+      "per_month": "/ за місяць",
+      "subscription_features": "В цій підписці ми пропонуємо:",
+      "all_functions": "✓ Всі функції",
+      "all_functions_except_analytics": "✓ Всі функції крім аналітики",
+      "buy_now": "Купити зараз",
+      "error_fetching_subscription_types": "Помилка при завантаженні типів підписок:",
+      "error_buying_subscription": "Помилка при купівлі підписки:"
+    },
+    "product": {
+        "label_products": "Продукти для магазину",
+        "add_product": "Додати Продукт",
+        "view_defective_products": "Переглянути зіпсовані товари",
+        "view_sale": "Переглянути продажі",
+        "search_placeholder": "Пошук...",
+        "no_products_available": "У магазині немає продуктів.",
+        "name": "Назва",
+        "price": "Ціна",
+        "currency": "Валюта",
+        "volume": "Об'єм",
+        "fresh": "Швидкопсувний",
+        "expiry_date": "Термін Придатності",
+        "quantity": "Кількість",
+        "min_quantity": "Мінімальна Кількість",
+        "supplier": "Постачальник",
+        "category": "Категорія",
+        "action": "Дія",
+        "update": "Оновити",
+        "not_fresh": "Не швидкопсувний",
+        "not_available": "Недоступний",
+        "label_sale": "Продукти на продаж",
+        "total_price": "Загальна Ціна",
+        "no_products_selected": "Не вибрано жодного продукту",
+        "add_sale": "Додати Продаж",
+        "is_fresh": "Свіжий",
+        "select_category": "Вибрати категорію",
+        "select_supplier": "Вибрати постачальника",
+        "measurement_unit": "Одиниця Виміру",
+        "update_product": "Оновити Продукт",
+        "delete": "Видалити",
+        "sale_added":" Продажа виконана успішно!"
+      },
+      "request": {
+        "update_request": "Оновити Запит",
+        "quantity": "Кількість",
+        "request_status": "Статус Запиту",
+        "pending": "В очікуванні",
+        "completed": "Завершено",
+        "close": "Закрити",
+        "save_changes": "Зберегти Зміни"
+      },
+      "dashboard": {
+        "dashboard": "Панель управління",
+        "createOrders": "Створюйте замовлення",
+        "createOrdersDescription": "Легко створюйте та керуйте своїми замовленнями.",
+        "createOrderButton": "Створити замовлення",
+        "analyzeSales": "Аналіз продажів",
+        "analyzeSalesDescription": "Отримайте інформацію про ефективність ваших продажів.",
+        "displaySalesButton": "Показати продажі"
+      }
+    
+    }
+    
+    
+
+
+
+            

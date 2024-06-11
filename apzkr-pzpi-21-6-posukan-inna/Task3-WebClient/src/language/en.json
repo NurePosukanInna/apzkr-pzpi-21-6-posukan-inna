@@ -1,0 +1,160 @@
+{
+    "activeSubscription": {
+      "your_subscription": "Your subscription:",
+      "status": "Status",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "name": "Name",
+      "price": "Price"
+    },
+    "analytics": {
+      "store_analytics": "Store analytics"
+    },
+    "defective": {
+      "defective_products_for_shop": "Defective products for shop",
+      "product_name": "Product Name",
+      "volume": "Volume",
+      "measure_of_units": "Measure Of Units",
+      "reason": "Reason",
+      "date_detected": "Date Detected",
+      "no_defective_products": "No defective products"
+    },
+    "employee": {
+      "label_employee": "Employee",
+      "add_user": "Add User",
+      "email": "Email",
+      "position": "Position",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "store": "Store",
+      "action": "Action",
+      "delete": "Delete",
+      "update": "Update",
+      "select_store":"Select store",
+      "password":"Password",
+      "add_employee":"Add Employee",
+      "select_role":"Select role",
+      "cashier":"Cashier",
+      "store_manager":"Store Manager",
+      "update_employee": "Update employee",
+
+      "employee_successfully_added": "Employee successfully added!",
+      "employee_successfully_deleted": "Employee successfully deleted!",
+      "employee_successfully_updated": "Employee successfully updated!"
+    },
+    "order": {
+        "label_supplier_request": "Request for Supplier",
+        "loading": "Loading...",
+        "fetch_data_error": "Failed to fetch data. Please try again later.",
+        "order_id": "Order ID",
+        "store_name": "Store Name",
+        "product_name": "Product Name",
+        "quantity": "Quantity",
+        "total_amount": "Total Amount",
+        "request_date": "Request Date",
+        "request_status": "Request Status",
+        "delivery_date": "Delivery Date",
+        "not_delivered": "Not Delivered",
+        "actions": "Actions",
+        "update": "Update",
+        "delete": "Delete",
+        "request_deleted": "Request successfully deleted!",
+        "request_updated": "Request successfully updated!"
+      },
+      "sales":{
+        "sale": "Sales",
+        "sale_id": "Sale ID",
+        "sale_date": "Sale Date",
+        "employee": "Employee",
+        "product_name": "Product Name",
+        "quantity": "Quantity",
+        "price": "Price",
+        "error_fetching_sales": "Error fetching sales:",
+        "no_sales_available": "No sales available"
+      },
+      
+        "shop": {
+          "stores": "Stores",
+          "error_fetching_stores": "Error fetching stores:",
+          "error_adding_store": "Error adding store:",
+          "add_store": "Add Store",
+          "id": "Store ID",
+          "name": "Name",
+          "address": "Address",
+          "temperature": "Temperature",
+          "humidity": "Humidity",
+          "phone_number": "Phone number", 
+          "add_shop":"Add shop",
+          "initial_temperature": "Initial temperature value",
+          "initial_humidity": "Initial humidity value"
+        },
+        "subscription": {
+            "label_subscription": "Subscription",
+            "per_month": "/ per month",
+            "subscription_features": "In this subscription we prefer:",
+            "all_functions": "✓ All functions",
+            "all_functions_except_analytics": "✓ All functions except analytics",
+            "buy_now": "Buy now",
+            "error_fetching_subscription_types": "Error fetching subscription types:",
+            "error_buying_subscription": "Error buying subscription:"
+          },
+          "product": {
+            "label_products": "Products for store",
+            "add_product": "Add Product",
+            "view_defective_products": "View Defective Products",
+            "view_sale": "View Sale",
+            "search_placeholder": "Search...",
+            "name": "Name",
+            "price": "Price",
+            "currency": "Currency",
+            "volume": "Volume",
+            "fresh": "Fresh",
+            "expiry_date": "Expiry Date",
+            "quantity": "Quantity",
+            "min_quantity": "Min Quantity",
+            "supplier": "Supplier",
+            "category": "Category",
+            "action": "Action",
+            "update": "Update",
+            "not_fresh": "Not Fresh",
+            "not_available": "Not Available",
+            "label_sale": "Products for Sale",
+            "total_price": "Total Price",
+            "no_products_selected": "No products selected",
+            "add_sale": "Add Sale",
+            "is_fresh": "Is fresh",
+            "select_category": "Select category",
+            "select_supplier": "Select supplier",
+            "measurement_unit": "Measure Of Units",
+            "update_product": "Update Product", 
+            "sale_added":"Sale added successfully!",
+            "no_products_available": "No products available in the store",
+            "delete":"Delete"
+          }, 
+          
+          "request": {
+            "update_request": "Update Request",
+            "quantity": "Quantity",
+            "request_status": "Request Status",
+            "pending": "Pending",
+            "completed": "Completed",
+            "close": "Close",
+            "save_changes": "Save Changes"
+          },
+          "dashboard": {
+            "dashboard": "Dashboard",
+            "createOrders": "Create Orders",
+            "createOrdersDescription": "Easily create and manage your orders.",
+            "createOrderButton": "Create Order",
+            "analyzeSales": "Analyze Sales",
+            "analyzeSalesDescription": "Get insights into your sales performance.",
+            "displaySalesButton": "Display Sales"
+          }
+
+        }
+                  
+              
+              
+              
+            
+          

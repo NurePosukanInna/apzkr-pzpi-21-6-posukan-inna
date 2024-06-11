@@ -1,0 +1,54 @@
+.content {
+    margin-left: 120px; 
+    margin-top: 25px;
+    margin-right: 20px;
+}
+
+.dashboard-recommend {
+    border: 1px solid #ccc;
+    display: flex;
+    flex: 1;
+}
+
+.analysis-image {
+    margin: 20px 0;
+    width: 50%;
+    height: auto;
+}
+
+.text-next-to-image {
+    margin-left: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dashboard-info {
+    display: flex;
+}
+
+.additional-text {
+    font-weight: 200;
+    margin-top: 20px;
+    text-align: justify;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+
+@media screen and (max-width: 1100px) {
+    .dashboard-info {
+        display: contents;
+    }
+    .text-next-to-image {
+        font-size: 19px;
+    }
+  
+}
+
+@media screen and (max-width: 580px) {
+    .text-next-to-image {
+        font-size: 12px;
+    }
+   
+}

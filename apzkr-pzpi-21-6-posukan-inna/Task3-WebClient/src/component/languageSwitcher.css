@@ -1,0 +1,18 @@
+.language-switcher {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .language-switcher button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: white; 
+  }
+  
+  .language-switcher .active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  

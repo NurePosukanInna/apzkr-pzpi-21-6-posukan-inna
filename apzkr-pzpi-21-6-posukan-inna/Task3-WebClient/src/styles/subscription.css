@@ -1,0 +1,50 @@
+.subscription-types {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.subscription-item {
+    flex: 1 0 calc(50% - 20px);
+    background-color: #cff3e7;
+    padding: 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.subscription-item-inner {
+    text-align: center;
+}
+
+.subscription-price {
+    font-size: 25px;
+    font-weight: bold;
+    color: #03180f;
+    margin-top: 5px;
+}
+
+.subscription-price small {
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(100, 99, 99);
+}
+
+.label-subscription-features {
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.features-list {
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+.subscription-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.subscription-item {
+    margin-bottom: 10px;
+}
